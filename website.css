@@ -5,16 +5,25 @@
 }
 
 .cahm-exp-banner-card {
-    background-image: url("https://cdn.pixabay.com/photo/2021/07/06/19/26/drops-6392473__340.jpg");
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/486/161/large_2x/vector-medical-concept-scientists-man-research-in-a-laboratory-lab.jpg");
     height: 100vh;
     background-size: cover;
 }
 
-.cahm-exp-banner-text-card {
+.banner-text-card {
     text-align: center;
+    background-color: #30a624;
+    padding-bottom: 20px;
+    padding: 20px;
+    margin: 20px;
+}
 
+.banner-text-card-heading {
     color: white;
-    background-color: transparent;
+}
+
+.banner-text-card-para {
+    color: white;
 }
 
 .navbar-logo {
@@ -31,12 +40,12 @@
 }
 
 .Contact-us-icon {
-    font-size: 50px;
+    font-size: 34px;
     margin-left: 20px;
     border-width: 1px;
     border-radius: 50px;
     padding: 20px;
-    width: 94px;
+    width: 74px;
     background-color: #c2d2ff;
 }
 
